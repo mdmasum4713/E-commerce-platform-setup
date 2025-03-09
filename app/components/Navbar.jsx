@@ -9,7 +9,7 @@ export  function Navbar() {
       </Link>
       <ul className="flex gap-6">
         <li>
-          <Link href="/shop/products" className="hover:text-gray-300">
+          <Link href="/shop" className="hover:text-gray-300">
             Shop
           </Link>
         </li>
