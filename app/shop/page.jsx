@@ -1,4 +1,4 @@
-import ProductCard from "@/components/ProductCard";
+import ProductCard from "../components/ProductCard";
 
 const products = [
   { id: "101", name: "Product A", price: "$20" },
