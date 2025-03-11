@@ -5,7 +5,7 @@ export  function Navbar() {
   return (
     <nav className="bg-blue-900 text-white py-4 px-6 flex justify-between items-center">
       <Link href="/" className="text-xl font-bold">
-        FlexPay
+      ShopEase
       </Link>
       <ul className="flex gap-6">
         <li>
