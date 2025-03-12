@@ -1,7 +1,9 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
-  /* config options here */
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  images: {
+    domains: ["i.postimg.cc"], // এখানেই অনুমোদিত ডোমেইন যোগ করা হয়েছে
+  },
 };
 
-export default nextConfig;
+module.exports = nextConfig;
+
