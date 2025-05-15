@@ -6,8 +6,7 @@ export const Team = () => {
       <div className='text-center bg-transparent'>
   <h1>Hello word</h1>
   <h1>my name is masum</h1>
-  <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium officiis ipsa corrupti nulla ullam?</h1>
-  <h5>hello sanandubari college </h5>
+<h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae eos facilis omnis incidunt ea mollitia ut reiciendis.</h1>
       </div>
     </div>
   )
