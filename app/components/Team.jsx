@@ -6,7 +6,7 @@ export const Team = () => {
       <h1>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis, iure.</h1>
       <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In pariatur facere at.</h1>
       <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, delectus!</h2>
-      <h3>h3</h3>
+      <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio sapiente suscipit eius maiores deserunt delectus quaerat tempora, laudantium explicabo tenetur, esse voluptatum iste odio! Impedit nobis magni mollitia rem sequi.</h3>
       <h4>h4</h4>
       <h5>h5</h5>
       <h6>h6</h6>
