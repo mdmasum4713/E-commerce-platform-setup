@@ -10,6 +10,9 @@ export const Team = () => {
       <h4>lorem 12344</h4>
       <h5>lorem 4958395984</h5>
       <h6>Lorem ipsum dolor sit amet.</h6>
+      <h2>lo21
+        
+      </h2>
     </div>
   )
 }
