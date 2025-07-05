@@ -13,6 +13,7 @@ export const Team = () => {
       <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, sint.
         
       </h2>
+      <h1>hello my all team </h1>
     </div>
   )
 }
