@@ -16,6 +16,7 @@ export const Team = () => {
       <h1>hello my all team </h1>
       <h1>how are you my team</h1>
       <h1>what do you do</h1>
+      <h1>i am setting now</h1>
     </div>
   )
 }
