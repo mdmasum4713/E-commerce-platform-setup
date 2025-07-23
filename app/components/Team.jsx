@@ -21,6 +21,7 @@ export const Team = () => {
       <h1>i watching video</h1>
       <h1>end my watching</h1>
       <h1>ok no problem</h1>
+      <h1>its ok bro</h1>
     </div>
   )
 }
