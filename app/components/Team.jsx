@@ -28,6 +28,7 @@ export const Team = () => {
       <h1>ok i waiting for you</h1>
       <h1>fainaly finshed the video</h1>
       <h1>ok its good</h1>
+      <h1>i tray alwas</h1>
     </div>
   )
 }
