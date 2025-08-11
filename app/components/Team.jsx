@@ -29,6 +29,7 @@ export const Team = () => {
       <h1>fainaly finshed the video</h1>
       <h1>ok its good</h1>
       <h1>i tray alwas</h1>
+      <h1>please you give me right suggestion</h1>
     </div>
   )
 }
