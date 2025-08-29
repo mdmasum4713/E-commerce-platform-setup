@@ -11,6 +11,7 @@ export const Team = () => {
      <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Non quaerat aperiam ex ea magni.</h1>
      <h1>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</h1>
      <h1>Lorem ipsum, dolor sit amet consectetur adipisicing.</h1>
+     <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur hic consectetur error.</h1>
     </div>
   )
 }
